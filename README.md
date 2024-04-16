@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Biswajit Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjVaeThrUU1RWHRwWTdQV3FxS3hKY05TQUJxZ3xBQ3Jtc0ttOWJCcjVZRThCc3hoajlXblFUeTNnRzFUbTVwbkp2aG43eUZVREQxeHFkLW5Zd1AtTWVTMlhFWk5xeGNKUFA0Q0VtX253RTQ5MFlVdmJoUXpmaVFmT2Y0NDk1T01DS0EzUmZIallFUVhlRDEtY0pURQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🔭 I’m pursuing **MCA at KIIT-DU**
 
 - 🌱 I’m currently learning **REACTJS**
