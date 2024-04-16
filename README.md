@@ -1,3 +1,4 @@
+![image](https://github.com/jeetxcoder/jeetxcoder/assets/163628362/d7c4c2d5-f781-4bc4-b158-297f448d9285)
 <h1 align="center">Hi 👋, I'm Biswajit Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
