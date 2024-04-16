@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **REACTJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jeetxcoder](https://github.com/jeetxcoder)
+- 👨‍💻 My projects  [https://github.com/jeetxcoder](https://github.com/jeetxcoder)
 
 - 📝 I sometime write notes on [https://twitter.com/twpatelji](https://twitter.com/twpatelji)
 
